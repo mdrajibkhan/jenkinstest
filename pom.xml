@@ -88,11 +88,6 @@
                 <artifactId>maven-jaxb2-plugin</artifactId>
                 <version>${maven-jaxb2-plugin.version}</version>
              
-		<properties>
- 		<maven.compiler.source>1.8</maven.compiler.source>
-		 <maven.compiler.target>1.8</maven.compiler.target>
-		</properties>
- 
                 <!--<executions>-->
                     <!--<execution>-->
                         <!--<id>notify_sms</id>-->
